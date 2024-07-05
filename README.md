@@ -1,4 +1,4 @@
-# Structural-Similarity-of-Nodes-of-a-Graph
+# Identifying-Structural-Similarity-of-Nodes-of-a-Graph
 **Language Used -** Python
 
 **Highlights -**
